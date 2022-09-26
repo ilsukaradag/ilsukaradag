@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am İlsu and I'm a Computer Science student at Bilkent University.
+I'm Ilsu and I'm a freshman Computer Science student at Bilkent University.
 
 
 
